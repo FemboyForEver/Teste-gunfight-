@@ -130,7 +130,7 @@ end)
 ---
 
 --- ui
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://github.com/FemboyForEver/Orion-test/blob/main/orion%20test')))()
 
 OrionLib:MakeNotification({
 	Name = "GunFight Arena",
